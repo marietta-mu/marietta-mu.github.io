@@ -1,8 +1,12 @@
-theme: jekyll-theme-midnight
 title: Marietta Muhelyi - Portfolio
-
-show_downloads: false
-
-remote_theme: pages-themes/midnight@v0.2.0
+logo: "/images/logo.png?raw=true"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Aspiring Data Analyst | Python | Microsoft Excel | Avid Learner | Data Enthusiast 
+  <br><br>
+  Dedicated, reliable individual with diverse experience and a passion for data-driven solutions. Efficient in analysing data to drive productivity to achieve KPIs and service levels. Currently delving deeper into data analysis using Python, Pandas, Matplotlib, Seaborn and Bokeh via successfully having completed a Level 4 Bootcamp in Data Analytics.
+  <br><br>
+  <a href="https://www.linkedin.com/in/marietta-muhelyi/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
