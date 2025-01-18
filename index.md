@@ -2,15 +2,14 @@
 
 ---
 
-### The Main Characteristics of
-### Road Collisions in the UK for 2023
+### The Main Characteristics of Road Collisions in the UK for 2023
 
-[Project Details](/uk_road_2023)
+**[>> Project Details](/uk_road_2023)**
 
-**Preview: Wide variety of Visuals**
+**Preview:** Wide variety of Visuals
 <img src="images/uk_road_thumbnail.png?raw=true"/>
 
-**Preview: Interactive Maps**
+**Preview:** Interactive Maps
 <img src="images/uk_map_thumbnail.png?raw=true"/>
 
 ---
